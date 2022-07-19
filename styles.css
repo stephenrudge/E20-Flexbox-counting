@@ -1,0 +1,130 @@
+.flex_practice{
+    display: flex;  
+    flex-direction: row;
+    align-items:center 
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    
+
+}
+
+.one.number{
+    order: 0;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond;
+}
+
+.one.number:hover{
+    background-color: forestgreen;
+}
+
+.two.number{
+    order: 1;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.two.number:hover{
+    background-color: forestgreen;
+}
+
+.three.number{
+    order: 2;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.three.number:hover{
+    background-color: forestgreen;
+}
+
+.four.number{
+    order: 3;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.four.number:hover{
+        background-color: forestgreen;
+    }
+
+.five.number{
+    order: 4;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.five.number:hover{
+    background-color: forestgreen;
+}
+    
+.six.number{
+    order: 5;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.six.number:hover{
+    background-color: forestgreen;
+}
+
+.seven.number{
+    order: 6;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.seven.number:hover{
+    background-color: forestgreen;
+}
+
+.eight.number{
+    order: 7;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.eight.number:hover{
+    background-color: forestgreen;
+}
+
+.nine.number{
+    order: 8;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.nine.number:hover{
+    background-color: forestgreen;
+}
+
+.ten.number{
+    order: 9;
+    border: solid blue 5px;
+    margin: 5px;
+    padding: 50px 100px;
+    background-color: blanchedalmond
+}
+
+.ten.number:hover{
+    background-color: forestgreen;
+}
